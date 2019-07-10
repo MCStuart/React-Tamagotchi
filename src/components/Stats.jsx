@@ -46,7 +46,7 @@ class Stats extends React.Component {
     console.log(newTamagotchi);
     
     this.setState({tamagotchi: newTamagotchi});
-
+    
   }
 
   render() {
